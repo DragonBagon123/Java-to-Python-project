@@ -1,0 +1,4 @@
+The easiest part for at least me was making the classes and methods as the inheritance between LibraryItem and the others was simple to recreate in pithing. 
+The Parth I think needed the most thought was changing the Java Syntax into Python Syntax.  For example was the constructors and private variables. 
+Overall this assignment helped me understand that Java and Python use different syntax, but they still follow many of the same object-oriented 
+programming ideas such as classes, inheritance, constructors, and methods.
